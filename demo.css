@@ -1,0 +1,30 @@
+.header{
+    width: 100%;
+    background-color: chocolate;
+    height: 150px;
+}
+.left_section{
+    width: 10%;
+    float: left;
+    height: 400px;
+    background-color: blanchedalmond;
+}
+.right_section{
+    width: 90%;
+    float: right;
+    height: 400px;
+    background-color: rgb(191, 159, 110);
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(29, 90, 120);
+    float: left;
+}
+.content{
+    height: 400px;
+
+}
+body{
+    margin: 0%;
+}

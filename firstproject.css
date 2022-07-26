@@ -1,0 +1,60 @@
+button{
+    background-color: #1f5f73;
+    color: aliceblue;
+
+}
+#head1{color: burlywood;
+background-color: #db8b09;}
+#para1{
+    color: #1f5f73;
+
+}
+#para2{
+    color: black;
+    background-color: #db8b09;
+}
+.head2{
+    color: ;
+    background-color: #1f5f73;
+}
+.div1{
+    width: 300px;
+    height: 300px;
+    background-color:#85795a;
+    margin-left: 220px;
+    margin-top: 50px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-right:15px;
+    border: 10px solid;
+    border-color: black;
+   
+}
+.div2{width: 300px;
+    height: 300px;
+    background-color:#85795a;
+    margin-left: 220px;
+    margin-top: 5px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-right:15px;
+    border: 10px solid;
+    border-color: black;
+   
+
+}
+.div2a{width: 30px;
+    height: 40px;
+    text-align:center;
+    background-color:#85795a;
+    margin-left: 1px;
+    margin-top: 1px;
+    padding-left: 1px;
+    padding-top: 1px;
+    padding: right 1px;
+    border: 10px solid;
+    border-color: black;
+   }
+   .ok{
+    border: yellow;;
+   }
